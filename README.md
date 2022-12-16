@@ -1,7 +1,8 @@
+<p><img src="https://cdn.dribbble.com/userupload/3818973/file/original-647907c3b7480966eccb7a63ea202f14.png?compress=1&resize=1000x300"></P>
 <h1 align="center">Hi 👋, I'm Borase Akash Balu</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
-<p align=right> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9j42ohbcwrHfwsNnhEdMkyk6CyPWzHuyL0YC4lp-n&s" alt="coding" style="width:250px; height:150px;" > </p>
+<p align=right> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9j42ohbcwrHfwsNnhEdMkyk6CyPWzHuyL0YC4lp-n&s" alt="coding" > </p>
 
 
 - 🔭 I’m currently working on [Ecommerce project](https://github.com/1234-aka/ecommerce-website-in-php)
